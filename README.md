@@ -11,6 +11,13 @@ Limited build time during the event.
 Precision issues in soldering fine-pitch ICs. 
 These challenges impacted completion but provided valuable hands-on experience in real-world hardware development.
 
+# Bill Of Materials
+
+| Item | Price |
+| :--- | :---- |
+| LED HourGlass DIY KIT | $1.98 |
+| Line Tracing Robot Kit| $2.50 |
+
 # Pictures
 
 ### LED HourGlass
